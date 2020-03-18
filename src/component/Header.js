@@ -2,7 +2,7 @@ import React from "react";
 
 function Header() {
   return (
-    // 如下<div className="Header"></div> 相当于<header>
+    // 
     <div className="Header">
       <div class="overlay"></div>
       <div class="menu-btn">
