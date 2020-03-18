@@ -4,8 +4,8 @@ function Main() {
   return (
     <div className="Main">
       <h1 class="lg-heading">
-        Nick
-        <span class="text-secondary">Chen</span>
+        Some
+        <span class="text-secondary">One</span>
       </h1>
       <h2 class="sm-heading">
         Web Developer,Programmer,Designer,&enterpreneur
