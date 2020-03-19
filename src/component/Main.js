@@ -10,7 +10,7 @@ function Main() {
       </h1>
 
       <h2 class="sm-heading">
-        Web Developer,Programmer,Designer,&enterpreneur
+        Web Developer,Designer
       </h2>
 
       <div class="icons">
