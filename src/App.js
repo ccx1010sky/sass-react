@@ -1,14 +1,17 @@
 import React from "react";
+import Footer from "./component/Footer";
 import Header from "./component/Header";
-import Main from "./component/Main";
-//import logo from "./logo.svg";
-//import "./App.css";
+import Router from "./component/Router";
+
+
+
 
 function App() {
   return (
     <div>
       <Header />
-      <Main />
+      <Router />
+      <Footer />
     </div>
   );
 }

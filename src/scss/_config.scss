@@ -1,18 +1,10 @@
 //setting the primitive variable
 $primary-color: #444;
-$secondary-color: blue;
+$secondary-color:rgb(255, 0, 149);
+$third-color:rgb(66, 0, 128);
 $show-home-image: true;
 $home-image: url(../img/background1.jpeg);
 $background-opacity: 0.7;
 @mixin easeOut {
   transition: color 1.5s ease-out;
-}
-@mixin background {
-  @if $show-home-image {
-    &.bg-img {
-      background: $home-image;
-      background-attachment: fixed;
-      background-size: cover;
-    }
-  }
 }
