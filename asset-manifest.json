@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-sass/static/css/main.a3d752b4.chunk.css",
+    "main.js": "/react-sass/static/js/main.07c4cd37.chunk.js",
+    "main.js.map": "/react-sass/static/js/main.07c4cd37.chunk.js.map",
+    "runtime-main.js": "/react-sass/static/js/runtime-main.dcf148a6.js",
+    "runtime-main.js.map": "/react-sass/static/js/runtime-main.dcf148a6.js.map",
+    "static/js/2.ba0a1983.chunk.js": "/react-sass/static/js/2.ba0a1983.chunk.js",
+    "static/js/2.ba0a1983.chunk.js.map": "/react-sass/static/js/2.ba0a1983.chunk.js.map",
+    "index.html": "/react-sass/index.html",
+    "precache-manifest.4f035c355dc221dda36465c16c08a253.js": "/react-sass/precache-manifest.4f035c355dc221dda36465c16c08a253.js",
+    "service-worker.js": "/react-sass/service-worker.js",
+    "static/css/main.a3d752b4.chunk.css.map": "/react-sass/static/css/main.a3d752b4.chunk.css.map",
+    "static/js/2.ba0a1983.chunk.js.LICENSE": "/react-sass/static/js/2.ba0a1983.chunk.js.LICENSE",
+    "static/media/index.scss": "/react-sass/static/media/background1.a926a5f2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcf148a6.js",
+    "static/js/2.ba0a1983.chunk.js",
+    "static/css/main.a3d752b4.chunk.css",
+    "static/js/main.07c4cd37.chunk.js"
+  ]
+}
