@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-sass/static/css/main.a3d752b4.chunk.css",
-    "main.js": "/react-sass/static/js/main.07c4cd37.chunk.js",
-    "main.js.map": "/react-sass/static/js/main.07c4cd37.chunk.js.map",
-    "runtime-main.js": "/react-sass/static/js/runtime-main.dcf148a6.js",
-    "runtime-main.js.map": "/react-sass/static/js/runtime-main.dcf148a6.js.map",
-    "static/js/2.36e023ee.chunk.js": "/react-sass/static/js/2.36e023ee.chunk.js",
-    "static/js/2.36e023ee.chunk.js.map": "/react-sass/static/js/2.36e023ee.chunk.js.map",
-    "index.html": "/react-sass/index.html",
-    "precache-manifest.67e5a80eda5efb69762b9703830ec859.js": "/react-sass/precache-manifest.67e5a80eda5efb69762b9703830ec859.js",
-    "service-worker.js": "/react-sass/service-worker.js",
-    "static/css/main.a3d752b4.chunk.css.map": "/react-sass/static/css/main.a3d752b4.chunk.css.map",
-    "static/js/2.36e023ee.chunk.js.LICENSE": "/react-sass/static/js/2.36e023ee.chunk.js.LICENSE",
-    "static/media/index.scss": "/react-sass/static/media/background1.a926a5f2.jpeg"
+    "main.css": "/sass-react/static/css/main.ee1ab42f.chunk.css",
+    "main.js": "/sass-react/static/js/main.07c4cd37.chunk.js",
+    "main.js.map": "/sass-react/static/js/main.07c4cd37.chunk.js.map",
+    "runtime-main.js": "/sass-react/static/js/runtime-main.52c5a18b.js",
+    "runtime-main.js.map": "/sass-react/static/js/runtime-main.52c5a18b.js.map",
+    "static/js/2.36e023ee.chunk.js": "/sass-react/static/js/2.36e023ee.chunk.js",
+    "static/js/2.36e023ee.chunk.js.map": "/sass-react/static/js/2.36e023ee.chunk.js.map",
+    "index.html": "/sass-react/index.html",
+    "precache-manifest.bd3a2516fdb46b8510abd26dde5c4b19.js": "/sass-react/precache-manifest.bd3a2516fdb46b8510abd26dde5c4b19.js",
+    "service-worker.js": "/sass-react/service-worker.js",
+    "static/css/main.ee1ab42f.chunk.css.map": "/sass-react/static/css/main.ee1ab42f.chunk.css.map",
+    "static/js/2.36e023ee.chunk.js.LICENSE": "/sass-react/static/js/2.36e023ee.chunk.js.LICENSE",
+    "static/media/index.scss": "/sass-react/static/media/background1.a926a5f2.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcf148a6.js",
+    "static/js/runtime-main.52c5a18b.js",
     "static/js/2.36e023ee.chunk.js",
-    "static/css/main.a3d752b4.chunk.css",
+    "static/css/main.ee1ab42f.chunk.css",
     "static/js/main.07c4cd37.chunk.js"
   ]
 }
